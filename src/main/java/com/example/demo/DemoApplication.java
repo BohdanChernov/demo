@@ -14,6 +14,7 @@ public class DemoApplication {
         System.out.println("change3 from testua");
         System.out.println("change4 from testua");
         System.out.println("change5 from testua");
+        System.out.println("change6 from testua");
     }
 
 }
