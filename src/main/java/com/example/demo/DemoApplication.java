@@ -17,4 +17,8 @@ public class DemoApplication {
         System.out.println("change6 from testua");
     }
 
+    public static void start() {
+
+    }
+
 }
