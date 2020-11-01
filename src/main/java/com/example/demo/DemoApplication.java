@@ -10,6 +10,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
 
         System.out.println("change1");
+        System.out.println("change2 from master");
     }
 
 }
